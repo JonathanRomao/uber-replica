@@ -1,8 +1,6 @@
 import java.util.Arrays;
 /*
  * Name:        Jonathan Romao
- * 
- * Student ID:  501249734
 */
 
 // The city consists of a grid of 9 X 9 City Blocks
