@@ -5,8 +5,6 @@ import java.io.FileNotFoundException;
 
 /*
  * Name:        Jonathan Romao
- * 
- * Student ID:  501249734
 */
 
 public class TMUberRegistered {

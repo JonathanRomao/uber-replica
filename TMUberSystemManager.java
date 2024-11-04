@@ -7,8 +7,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 /*
  * Name:        Jonathan Romao
- * 
- * Student ID:  501249734
 */
 
 /*

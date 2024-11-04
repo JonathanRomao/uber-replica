@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /*
  * Name:        Jonathan Romao
- * 
- * Student ID:  501249734
 */
 
 // Simulation of a Simple Command-line based Uber App 
